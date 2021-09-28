@@ -6,6 +6,3 @@
 - 🤔 I’m looking for help with ...Competitive Programming
 - 💬 Ask me about ...anything!
 - 📫 How to reach me: ...r.jeevan100@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...this was my first MarkDown file.
-
