@@ -1,6 +1,6 @@
 ### Hi there,here is what i'm working on 👋!
 
-- 🔭 I’m currently working on Front-End Development.
+- 🔭 I’m currently working as a Data Scientist.
 - 🌱 I’m currently learning Data Structures and back-End.
 - 👯 I’m looking to collaborate on Web Development projects.
 - 🤔 I’m looking for help with Competitive Programming.
